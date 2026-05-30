@@ -1,0 +1,49 @@
+EAP / WBS 
+
+1. Planejamento 
+
+Definição do tema 
+
+Definição das perguntas analíticas 
+
+Levantamento bibliográfico 
+
+2. Coleta de Dados 
+
+Identificação das bases públicas 
+
+Download dos dados 
+
+Organização dos arquivos 
+
+3. Tratamento dos Dados 
+
+Limpeza dos dados 
+
+Padronização 
+
+Integração das bases 
+
+4. Banco de Dados 
+
+Modelagem inicial 
+
+Criação das tabelas PostgreSQL 
+
+Importação dos dados 
+
+5. Análise e Visualização 
+
+Criação dos KPIs 
+
+Consultas SQL 
+
+Desenvolvimento do dashboard Power BI 
+
+6. Documentação e Entrega 
+
+Atualização do GitHub 
+
+Elaboração do relatório 
+
+Produção da devolutiva extensionista 
