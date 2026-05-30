@@ -95,7 +95,7 @@ projeto-mulheres-ti/
 
 ## Cronograma Resumido
 
-## Planejamento
+### Planejamento
 - Definição do tema
 - Levantamento das fontes de dados
 - Estruturação do projeto
@@ -114,7 +114,6 @@ projeto-mulheres-ti/
 - Documentação
 - Divulgação dos resultados
 
----
 
 ## Status do Projeto
 
