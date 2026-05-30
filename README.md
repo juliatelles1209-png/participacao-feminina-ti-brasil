@@ -95,7 +95,7 @@ projeto-mulheres-ti/
 
 ## Cronograma
 
-### Planejamento
+### Roteiro
 - Definição do tema
 - Levantamento das fontes de dados
 - Estruturação do projeto
