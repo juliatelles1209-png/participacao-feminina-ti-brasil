@@ -114,6 +114,13 @@ projeto-mulheres-ti/
 - Documentação
 - Divulgação dos resultados
 
+## Documentação 
+Os documentos produzidos durante o planejamento do projeto encontram-se na pasta `docs`.
+
+- Termo de Abertura e Briefing
+- Plano Inicial do Projeto
+- Cronograma
+- Matriz de Riscos
 
 ## Status do Projeto
 
