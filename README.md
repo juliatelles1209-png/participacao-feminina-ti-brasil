@@ -107,7 +107,7 @@ projeto-mulheres-ti/
 ### Banco de Dados e Análise
 - Modelagem em PostgreSQL
 - Consultas SQL
-- Construção dos indicadores
+- Estruturação dos indicadores
 
 ### Visualização e Entrega
 - Desenvolvimento do dashboard em Power BI
