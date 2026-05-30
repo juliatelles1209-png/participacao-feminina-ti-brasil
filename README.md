@@ -46,7 +46,7 @@ Analisar a participação feminina em cursos e carreiras de Tecnologia da Inform
 
 ---
 
-## Ferramentas utilizadas
+## Ferramentas
 
 - Python
 - PostgreSQL
@@ -93,7 +93,7 @@ projeto-mulheres-ti/
 
 ---
 
-## Cronograma Resumido
+## Cronograma
 
 ### Planejamento
 - Definição do tema
