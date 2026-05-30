@@ -46,7 +46,7 @@ Analisar a participação feminina em cursos e carreiras de Tecnologia da Inform
 
 ---
 
-## Tecnologias utilizadas
+## Ferramentas utilizadas
 
 - Python
 - PostgreSQL
