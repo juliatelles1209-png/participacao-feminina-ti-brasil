@@ -46,7 +46,7 @@ Analisar a participação feminina em cursos e carreiras de Tecnologia da Inform
 
 ---
 
-## Tecnologias Utilizadas
+## Tecnologias utilizadas
 
 - Python
 - PostgreSQL
@@ -95,7 +95,7 @@ projeto-mulheres-ti/
 
 ## Cronograma Resumido
 
-### Planejamento
+## Planejamento
 - Definição do tema
 - Levantamento das fontes de dados
 - Estruturação do projeto
