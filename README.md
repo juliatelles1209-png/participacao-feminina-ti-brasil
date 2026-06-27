@@ -41,7 +41,6 @@ Analisar a participação feminina em cursos e carreiras de Tecnologia da Inform
 - Identificar a participação feminina nos cursos de TI;
 - Comparar taxas de ingresso e conclusão;
 - Analisar a presença feminina em diferentes áreas da tecnologia;
-- Investigar possíveis diferenças salariais;
 - Produzir visualizações e indicadores que facilitem a compreensão dos dados.
 
 ---
