@@ -101,7 +101,7 @@ projeto-mulheres-ti/
 
 ### Coleta e Tratamento dos Dados
 - Download das bases
-- Limpeza e preparação dos dados
+- Limpeza e preparação dos dados no Python
 
 ### Banco de Dados e Análise
 - Modelagem em PostgreSQL
@@ -123,6 +123,4 @@ Os documentos produzidos durante o planejamento do projeto encontram-se na pasta
 
 ## Status do Projeto
 
-🚧 Em desenvolvimento.
-
-Projeto desenvolvido como parte do Projeto Integrador Extensionista do curso de Ciência de Dados.
+Finalizado!
