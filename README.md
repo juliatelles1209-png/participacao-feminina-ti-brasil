@@ -49,7 +49,6 @@ Analisar a participação feminina em cursos e carreiras de Tecnologia da Inform
 
 - Python
 - PostgreSQL
-- SQL
 - Power BI
 - GitHub
 
@@ -73,17 +72,34 @@ projeto-mulheres-ti/
 │
 ├── data/
 │   ├── raw/
-│   └── processed/
+│      └── link da base de dados no IBGE (o GitHub não suporta o tamanho do arquivo)
+│   ├── processed/
+│      └── curso.csv
+│      └── estado.csv
+│      └── indicadores.csv
+│      └── regiao.csv
 │
 ├── notebooks/
+│   ├── 01_exploração_dados/
+│   ├── 02_filtragem_ti/
+│   ├── 03_analise_genero/
 │
 ├── sql/
+│   ├── 01_criação_tabelas/
+│   ├── 02_população/
+│   ├── 03_consultas/
+│   ├── modelo logico/
 │
 ├── dashboard/
+│   ├── Projeto_Extensionista_Mulheres_TI_2024.pbix (arquivo do power BI)
+│   ├── Projeto_Extensionista_Mulheres_TI_2024.pdf (arquivo em PDF)
 │
 ├── docs/
-│
-├── src/
+│   ├── cronograma/
+│   ├── matriz de riscos/
+│   ├── plano inicial/
+│   ├── termo de abertura e briefing/
+│   ├── relatório final/
 │
 ├── README.md
 │
