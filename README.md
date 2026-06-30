@@ -4,7 +4,7 @@
 
 Este projeto integrador extensionista tem como objetivo analisar a participação feminina nas áreas de Tecnologia da Informação (TI) no Brasil, utilizando dados educacionais e profissionais de fontes públicas.
 
-Por meio de técnicas de Ciência de Dados, busca-se compreender padrões relacionados ao ingresso e conclusão de cursos de TI, inserção no mercado de trabalho, distribuição entre diferentes áreas da tecnologia e possíveis diferenças salariais entre homens e mulheres.
+Por meio de técnicas de Ciência de Dados, busca-se compreender padrões relacionados ao ingresso e conclusão de cursos de TI, inserção no mercado de trabalho e distribuição entre diferentes áreas da tecnologia.
 
 O projeto possui caráter extensionista ao transformar dados públicos em informações acessíveis para estudantes, instituições de ensino e mulheres interessadas em ingressar na área de tecnologia.
 
